@@ -12,5 +12,5 @@
    (Vol. 460, No. 2045, pp. 1433-1452). The Royal Society.
    
    Sharma, A., & McCaskill, J. S. (2015). Autonomous lablet locomotion and active docking by sensomotory 
-   electroosmotic drive. European Conference on Articial Life, York. DOI: 10.7551/978-0-262-33027-5-ch081
+   electroosmotic drive. Proceedings of European Conference on Articial Life, York. DOI: 10.7551/978-0-262-33027-5-ch081
     
